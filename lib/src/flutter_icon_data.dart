@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+enum IconWeight { Regular, Solid, Brand }
+
 /// It is used to generate IconData under different icon sets
 class FlutterIconData extends IconData {
   const FlutterIconData(int codePoint, String fontFamily)

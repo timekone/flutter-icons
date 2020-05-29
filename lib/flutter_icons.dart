@@ -18,3 +18,4 @@ export 'src/font_awesome_5_brands.dart';
 export 'src/icon_toggle.dart';
 export 'src/weather_icons.dart';
 export 'src/flutter_icons.dart';
+export 'src/flutter_icon_data.dart' show IconWeight;
